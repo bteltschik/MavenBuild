@@ -15,3 +15,4 @@ public class ThingTest {
         Assert.assertEquals("N should be 5", 5, t.getN());
     }
 }
+//Test
